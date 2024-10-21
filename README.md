@@ -1,5 +1,5 @@
 ## erc20 gated frog frame
-erc20 gated content Template for frog frames on farcaster
+base chain erc20 gated content Template for [frog frames](https://frog.fm/) on farcaster
 
 # rename routes folder
 Remember to rename the routes folder to `[[...routes]]` in order for nextjs to run properly
